@@ -1,0 +1,7 @@
+Solution FrontendMentor:
+
+https://www.frontendmentor.io/solutions/card-with-pure-html-and-css-WwviIyKnc1
+
+GIT:
+
+https://kadoia614.github.io/Card-MasterIo/
